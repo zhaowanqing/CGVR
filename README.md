@@ -1,6 +1,5 @@
 # Cross-modal Guided Visual Representation Learning for Social Image Retrieval
 
-[toc]
 
 ## 1. Introduction
 
@@ -13,11 +12,6 @@ Cross-modal Guided Visual Representation Learning for Social Image Retrieval
 In the following, we will guide you how to use this repository step by step. 
 
 ## 2. Preparation
-
-```bash
-unzip CGVR-code.zip
-cd CGVR-code
-```
 
 ### 2.1 Requirements
 
